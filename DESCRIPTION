@@ -1,0 +1,14 @@
+Package: npgarch
+Type: Package
+Title: Semi-nonparametric GARCH estimation via Hermite polynomials and splines
+Version: 1.0
+Date: 2021-07-08
+Author: Juri Trifonov
+Maintainer: Your Name <ju.trifonov@email.com>
+Description: One paragraph description of what the package does as one or more full sentences.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.6), hpa (>= 1.2.1), gena
+Depends: hpa (>= 1.2.1), gena
+LinkingTo: Rcpp, RcppArmadillo, hpa, gena
+NeedsCompilation: yes
+Packaged: 2023-01-30 16:43:35 UTC; bogda
